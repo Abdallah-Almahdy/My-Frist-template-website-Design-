@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../projectpy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tampelet 1",
+		"liveServer.settings.port": 5501
+	}
+}
